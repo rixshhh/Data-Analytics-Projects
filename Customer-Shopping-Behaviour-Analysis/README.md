@@ -2,6 +2,10 @@
 
 A **corporate-grade, end-to-end data analytics portfolio project** designed to replicate real-world responsibilities of Data Analysts in modern business environments. This project demonstrates how raw customer behavior data can be transformed into **actionable business insights** using Python, SQL, and Power BI.
 
+🔗 **Live Dashboard:**
+[text](https://app.powerbi.com/view?r=eyJrIjoiNzlmZTIwN2EtMDYzYy00Y2U0LThkMDEtOTQ3NjQ3YTUzMTdlIiwidCI6ImZiYmU2ZGI5LWE4YjItNGZhZi05MWEwLTQxNDUzYmQ3OWM2ZCJ9)
+
+
 ---
 
 ## 📌 Project Objective
